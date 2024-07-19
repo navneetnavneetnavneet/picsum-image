@@ -49,7 +49,7 @@ const Home = () => {
       </div>
     </div>
   ) : (
-    <h1 className="text-5xl text-center text-red-300">Loading...</h1>
+    <h1 className="text-7xl text-black text-center text-red-300">Loading...</h1>
   );
 };
 
